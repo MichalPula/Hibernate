@@ -1,0 +1,30 @@
+.idea
+.mvn
+/src/main/resources/application.properties
+/src/main/resources/log4j.properties
+target/
+HELP.md
+mvnw
+mvnw.cmd
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
